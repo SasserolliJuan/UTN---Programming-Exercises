@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1668101460 source:c:\users\sasse\desktop\tp's de lab 2 - 2023\tp's de listas\tp 4.1 - lab 2\tp 4.1 - lab 2\st_lista_simple.c
+	"st_lista_simple.h"
+
+1668101468 c:\users\sasse\desktop\tp's de lab 2 - 2023\tp's de listas\tp 4.1 - lab 2\tp 4.1 - lab 2\st_lista_simple.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<conio.h>
+
+1694975754 source:c:\users\sasse\desktop\tp's de lab 2 - 2023\tp's de listas\tp 4.1 - lab 2\st_lista_simple.c
+	"st_lista_simple.h"
+
+1694977050 c:\users\sasse\desktop\tp's de lab 2 - 2023\tp's de listas\tp 4.1 - lab 2\st_lista_simple.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<conio.h>
+
+1694992954 source:c:\users\sasse\desktop\tp's de lab 2 - 2023\tp's de listas\tp 4.1 - lab 2\main.c
+	"st_lista_simple.h"
+	"Pila_Con_Listas_PS.h"
+
+1668101460 c:\users\sasse\desktop\tp's de lab 2 - 2023\tp's de listas\tp 4.1 - lab 2\st_lista_simple.c
+	"st_lista_simple.h"
+
+1694977134 source:c:\users\sasse\desktop\tp's de lab 2 - 2023\tp's de listas\tp 4.1 - lab 2\pila_con_listas_ps.c
+	"Pila_Con_Listas_PS.h"
+
+1696107066 c:\users\sasse\desktop\tp's de lab 2 - 2023\tp's de listas\tp 4.1 - lab 2\pila_con_listas_ps.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

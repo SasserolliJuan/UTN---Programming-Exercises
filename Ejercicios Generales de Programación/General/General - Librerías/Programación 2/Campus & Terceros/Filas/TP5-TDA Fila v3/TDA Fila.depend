@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1380331228 source:c:\users\jorge\desktop\tda fila\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1369787910 source:c:\users\jorge\desktop\tda fila\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	"conio.h"
+
+1093905120 c:\users\jorge\desktop\tda fila\conio.h
+	<stdio.h>
+
+1369787910 source:c:\users\sonvicofamily\documents\01 - utn catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tda fila\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	"conio.h"
+
+1093905120 c:\users\sonvicofamily\documents\01 - utn catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tda fila\conio.h
+	<stdio.h>
+
+1369787910 source:c:\users\sonvicofamily\documents\01 - utn catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	"conio.h"
+
+1093905120 c:\users\sonvicofamily\documents\01 - utn catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila\conio.h
+	<stdio.h>
+
+1383838385 source:c:\users\sonvicofamily\documents\01 - utn catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"conio.h"
+
+1369787910 source:c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	"conio.h"
+
+1093905120 c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila\conio.h
+	<stdio.h>
+
+1475021793 source:c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila\lista2.c
+	"lista2.h"
+
+1475021837 c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila\lista2.h
+	<stdio.h>
+	<stdlib.h>
+
+1475023182 source:c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila\fila.c
+	"Fila.h"
+
+1475023098 c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"lista2.h"
+
+1475023132 source:c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1475073287 source:c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1475073267 c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila v2\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"lista2.h"
+
+1475021837 c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila v2\lista2.h
+	<stdio.h>
+	<stdlib.h>
+
+1475073055 source:c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila v2\lista2.c
+	"lista2.h"
+
+1475073267 source:c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila v2\fila.c
+	"Fila.h"
+
+1568663764 source:c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila v3\lista2.c
+	"lista2.h"
+
+1568662827 c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila v3\lista2.h
+	<stdio.h>
+	<stdlib.h>
+
+1538085918 source:c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1568664399 c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila v3\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"lista2.h"
+
+1538085880 source:c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp5-tda fila v3\fila.c
+	"Fila.h"
+

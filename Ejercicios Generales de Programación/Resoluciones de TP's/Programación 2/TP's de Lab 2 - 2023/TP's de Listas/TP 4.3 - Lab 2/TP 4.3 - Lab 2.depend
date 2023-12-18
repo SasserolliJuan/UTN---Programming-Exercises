@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1694975754 source:c:\users\sasse\desktop\tp 4.3 - lab 2\st_lista_simple.c
+	"st_lista_simple.h"
+
+1694977050 c:\users\sasse\desktop\tp 4.3 - lab 2\st_lista_simple.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<conio.h>
+
+1695347860 source:c:\users\sasse\desktop\tp 4.3 - lab 2\main.c
+	"st_lista_simple.h"
+

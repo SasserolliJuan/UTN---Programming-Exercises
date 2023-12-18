@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1490112217 source:d:\utn\programacion 1\guia 3 funciones\ej1 g3\pila.c
+	"pila.h"
+
+1490112217 d:\utn\programacion 1\guia 3 funciones\ej1 g3\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1650266403 source:d:\utn\programacion 1\guia 3 funciones\ej1 g3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112217 source:d:\utn\programacion 1\guia 3 funciones\guia 3\pila.c
+	"pila.h"
+
+1490112217 d:\utn\programacion 1\guia 3 funciones\guia 3\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1650728731 source:d:\utn\programacion 1\guia 3 funciones\guia 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1650728863 source:c:\users\sasse\onedrive\escritorio\utn\tp3 - funciones\guia 3 en un programa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112217 c:\users\sasse\onedrive\escritorio\utn\tp3 - funciones\guia 3 en un programa\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\sasse\onedrive\escritorio\utn\tp3 - funciones\guia 3 en un programa\pila.c
+	"pila.h"
+

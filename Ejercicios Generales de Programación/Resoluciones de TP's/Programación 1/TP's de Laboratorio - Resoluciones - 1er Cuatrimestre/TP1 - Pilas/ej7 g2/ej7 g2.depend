@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490112217 source:d:\utn\programacion 1\guia 1 pilas\ej7 g2\pila.c
+	"pila.h"
+
+1490112217 d:\utn\programacion 1\guia 1 pilas\ej7 g2\pila.h
+	<stdio.h>
+	<malloc.h>
+

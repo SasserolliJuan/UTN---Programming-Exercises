@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490112216 source:c:\users\sasse\desktop\utn\ejercicios generales de programación\ejercicios generales de programación\ejercicios de programación\resoluciones de tp's\programación 1\tp's de laboratorio - resoluciones - 1er cuatrimestre\tp1 - pilas\ej 4 g2\pila.c
+	"pila.h"
+
+1490112216 c:\users\sasse\desktop\utn\ejercicios generales de programación\ejercicios generales de programación\ejercicios de programación\resoluciones de tp's\programación 1\tp's de laboratorio - resoluciones - 1er cuatrimestre\tp1 - pilas\ej 4 g2\pila.h
+	<stdio.h>
+	<malloc.h>
+

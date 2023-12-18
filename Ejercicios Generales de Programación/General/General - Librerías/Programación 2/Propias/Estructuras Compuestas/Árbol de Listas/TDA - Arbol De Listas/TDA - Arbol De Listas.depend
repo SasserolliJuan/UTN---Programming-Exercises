@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1699855487 source:c:\users\sasse\desktop\tda - arbol de listas\main.c
+	"Arbol_De_Listas.h"
+
+1699855473 c:\users\sasse\desktop\tda - arbol de listas\arbol_de_listas.h
+	<stdio.h>
+	<stdlib.h>
+

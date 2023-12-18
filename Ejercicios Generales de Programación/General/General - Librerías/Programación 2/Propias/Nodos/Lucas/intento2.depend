@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1661438486 source:d:\lab 2\intento2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodoAlumno.h"
+
+1661438141 source:d:\lab 2\intento2\nodoalumno.c
+	"nodoAlumno.h"
+	<stdio.h>
+	<stdlib.h>
+
+1661437828 d:\lab 2\intento2\nodoalumno.h
+

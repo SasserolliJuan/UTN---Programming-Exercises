@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653177320 source:c:\users\sasse\onedrive\escritorio\utn\tp4.1 - matrices\tp4.1 ejercicio 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112217 source:d:\utn\programacion 1\guia 1 pilas\ej10 g2\pila.c
+	"pila.h"
+
+1490112217 d:\utn\programacion 1\guia 1 pilas\ej10 g2\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1648356021 source:d:\utn\programacion 1\guia 1 pilas\ej10 g2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+

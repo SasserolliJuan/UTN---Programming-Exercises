@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1699858764 source:c:\users\sasse\desktop\tda - lista de listas\main.c
+	"Lista_De_Listas.h"
+
+1699859202 c:\users\sasse\desktop\tda - lista de listas\lista_de_listas.h
+	<stdio.h>
+	<stdlib.h>
+

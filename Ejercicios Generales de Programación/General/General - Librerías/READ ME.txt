@@ -1,0 +1,1 @@
+Para poder utilizar estas liberías, es aconsejable pasar las carpetas de los proyectos al escritorio. De lo contrario, puede que los archivos figuren como vacíos. Esto se debe que al momento de su creación, se determinó a Escritorio como su ruta de acceso. Por ende, si ésta se cambia y luego se los intenta abrir, puede tirar ese error.

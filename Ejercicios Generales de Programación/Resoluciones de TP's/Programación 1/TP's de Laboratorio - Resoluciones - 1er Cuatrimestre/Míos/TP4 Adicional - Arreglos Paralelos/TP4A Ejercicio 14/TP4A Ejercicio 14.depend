@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\sasse\onedrive\escritorio\utn\tp4 adicional - arreglos paralelos\tp4a ejercicio 14\pila.c
+	"pila.h"
+
+1490112217 c:\users\sasse\onedrive\escritorio\utn\tp4 adicional - arreglos paralelos\tp4a ejercicio 14\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1652920022 source:c:\users\sasse\onedrive\escritorio\utn\tp4 adicional - arreglos paralelos\tp4a ejercicio 14\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+

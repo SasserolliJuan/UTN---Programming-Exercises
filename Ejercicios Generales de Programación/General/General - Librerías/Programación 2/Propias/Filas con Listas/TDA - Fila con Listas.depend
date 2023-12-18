@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697315921 source:c:\users\sasse\desktop\tda - fila con listas\fila_con_listas_dobles.c
+	"Fila_Con_Listas_Dobles.h"
+
+1697316105 c:\users\sasse\desktop\tda - fila con listas\fila_con_listas_dobles.h
+	<stdio.h>
+	<stdlib.h>
+
+1697316130 source:c:\users\sasse\desktop\tda - fila con listas\main.c
+	"Fila_Con_Listas_Dobles.h"
+

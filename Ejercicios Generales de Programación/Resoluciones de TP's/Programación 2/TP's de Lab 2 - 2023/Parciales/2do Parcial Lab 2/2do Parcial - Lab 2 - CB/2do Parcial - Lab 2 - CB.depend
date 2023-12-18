@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1700143012 source:c:\users\sasse\desktop\2do parcial - lab 2 - cb\libreria_listas_simples.c
+	"libreria_listas_simples.h"
+
+1700139030 c:\users\sasse\desktop\2do parcial - lab 2 - cb\libreria_listas_simples.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
+1700147954 source:c:\users\sasse\desktop\2do parcial - lab 2 - cb\main.c
+	"libreria_listas_simples.h"
+
+1700143012 source:c:\users\sasse\desktop\tp's de lab 2 - 2023\parciales\2do parcial lab 2\2do parcial - lab 2 - cb\libreria_listas_simples.c
+	"libreria_listas_simples.h"
+
+1700139030 c:\users\sasse\desktop\tp's de lab 2 - 2023\parciales\2do parcial lab 2\2do parcial - lab 2 - cb\libreria_listas_simples.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+

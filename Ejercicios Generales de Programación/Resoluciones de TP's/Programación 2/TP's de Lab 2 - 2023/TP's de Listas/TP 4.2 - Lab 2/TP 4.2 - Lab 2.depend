@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1695254235 source:c:\users\sasse\desktop\tp 4.2 - lab 2\st_lista_doble.c
+	"st_lista_doble.h"
+
+1668098986 c:\users\sasse\desktop\tp 4.2 - lab 2\st_lista_doble.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<conio.h>
+
+1695332836 source:c:\users\sasse\desktop\tp 4.2 - lab 2\main.c
+	"st_lista_doble.h"
+	<math.h>
+

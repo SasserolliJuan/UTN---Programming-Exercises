@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1491400449 source:c:\users\techmdq\documents\pruebas\gotoxycom3\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1491400448 source:c:\users\techmdq\downloads\pruebas\programacion 1 - local\comision 2\gotoxy\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1491400448 source:c:\users\sasse\onedrive\escritorio\gotoxy\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1587416004 source:c:\users\sasse\onedrive\escritorio\gotoxy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1491399894 c:\users\sasse\onedrive\escritorio\gotoxy\gotoxy.h
+

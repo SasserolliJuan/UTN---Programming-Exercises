@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\sasse\onedrive\escritorio\utn\funciones útiles\funcion carga de pilas\pila.c
+	"pila.h"
+
+1490112217 c:\users\sasse\onedrive\escritorio\utn\funciones útiles\funcion carga de pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+

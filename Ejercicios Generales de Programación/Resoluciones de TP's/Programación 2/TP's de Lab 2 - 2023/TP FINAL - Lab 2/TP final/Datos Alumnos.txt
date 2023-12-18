@@ -1,0 +1,9 @@
+Alumnos:
+Juan Ignacio Sasserolli. 
+Mariano Labatut. 
+Perez Maria Lucia.
+
+TRELLO:
+https://trello.com/b/Z3ymGK1P/tp-final
+GITHUB:
+https://github.com/marlaba07/UTN-Hemeroteca

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1695827062 source:c:\users\sasse\desktop\tp's de lab 2 - 2023\modelos de parcial\1er parcial\modelo 2 del 1er parcial - lab 2\st_lista_simple.c
+	"st_lista_simple.h"
+
+1694977050 c:\users\sasse\desktop\tp's de lab 2 - 2023\modelos de parcial\1er parcial\modelo 2 del 1er parcial - lab 2\st_lista_simple.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<conio.h>
+
+1696287438 source:c:\users\sasse\desktop\tp's de lab 2 - 2023\modelos de parcial\1er parcial\modelo 2 del 1er parcial - lab 2\main.c
+	"st_lista_simple.h"
+	"st_lista_doble.h"
+	<time.h>
+
+1695870668 c:\users\sasse\desktop\tp's de lab 2 - 2023\modelos de parcial\1er parcial\modelo 2 del 1er parcial - lab 2\st_lista_doble.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<conio.h>
+
+1695870830 source:c:\users\sasse\desktop\tp's de lab 2 - 2023\modelos de parcial\1er parcial\modelo 2 del 1er parcial - lab 2\st_lista_doble.c
+	"st_lista_doble.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1692882435 source:c:\users\sasse\onedrive\escritorio\tp1 - lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1693513165 source:c:\users\sasse\desktop\tp1 - lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

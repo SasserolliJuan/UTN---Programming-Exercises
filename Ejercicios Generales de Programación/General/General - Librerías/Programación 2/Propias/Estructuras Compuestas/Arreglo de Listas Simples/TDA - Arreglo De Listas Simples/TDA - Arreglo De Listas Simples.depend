@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1698706795 source:c:\users\sasse\desktop\tda - arreglo de listas simples\main.c
+	"Arreglo_De_Listas_Simples.h"
+
+1698706738 c:\users\sasse\desktop\tda - arreglo de listas simples\arreglo_de_listas_simples.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+

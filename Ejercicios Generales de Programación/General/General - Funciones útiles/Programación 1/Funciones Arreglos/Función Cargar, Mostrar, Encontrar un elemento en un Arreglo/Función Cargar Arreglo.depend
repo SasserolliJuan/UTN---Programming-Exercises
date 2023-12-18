@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651096944 source:c:\users\sasse\onedrive\escritorio\utn\funciones útiles\función cargar arreglo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1651097816 source:c:\users\sasse\onedrive\escritorio\utn\funciones útiles\función cargar, mostrar, encontrar un elemento en un arreglo\main.c
+	<stdio.h>
+	<stdlib.h>
+
