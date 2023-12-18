@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1694912523 source:c:\users\sasse\desktop\tda - pila con listas - ps\main.c
+	"Pila_Con_Listas_PS.h"
+
+1695078694 c:\users\sasse\desktop\tda - pila con listas - ps\pila_con_listas_ps.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
