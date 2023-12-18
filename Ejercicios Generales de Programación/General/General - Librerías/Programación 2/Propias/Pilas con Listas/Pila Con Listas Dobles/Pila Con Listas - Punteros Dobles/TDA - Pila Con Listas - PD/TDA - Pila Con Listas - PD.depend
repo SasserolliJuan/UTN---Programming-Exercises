@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1696108071 source:c:\users\sasse\desktop\tda - pila con listas - pd\pila_con_listas_dobles_pd.c
+	"Pila_Con_Listas_Dobles_PD.h"
+
+1696108400 c:\users\sasse\desktop\tda - pila con listas - pd\pila_con_listas_dobles_pd.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1696108558 source:c:\users\sasse\desktop\tda - pila con listas - pd\main.c
+	"Pila_Con_Listas_Dobles_PD.h"
+
