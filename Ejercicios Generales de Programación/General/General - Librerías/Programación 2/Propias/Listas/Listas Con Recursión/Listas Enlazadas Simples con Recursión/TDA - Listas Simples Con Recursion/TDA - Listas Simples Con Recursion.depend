@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1698263609 source:c:\users\sasse\desktop\tda - listas simples con recursion\main.c
+	"Listas_Simples_Con_Recursion.h"
+
+1698260913 c:\users\sasse\desktop\tda - listas simples con recursion\listas_simples_con_recursion.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<conio.h>
+
+1698260917 source:c:\users\sasse\desktop\tda - listas simples con recursion\listas_simples_con_recursion.c
+	"Listas_Simples_Con_Recursion.h"
+
